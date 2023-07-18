@@ -1,1 +1,12 @@
 HTML CSS only Landing Page - G3 Architects 
+
+--------------------------------------------------------
+UI Analysis:
+Font - Work Sans 700 600 500 400 
+Color - bg-primary rgba(255, 144, 14, 0.10);
+      - bg-white #FFF
+Common - main-heading-700 , sub-heading-600  para-400, 3 buttons, 
+
+Spacing: width: 1440px; 
+
+-----------------------------------------------------------
